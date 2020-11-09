@@ -1,0 +1,23 @@
+{
+  "name": "crmgraphqlcurso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Oscar",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "apollo-link-context": "^1.0.20",
+    "apollo-server": "^2.18.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  }
+}
